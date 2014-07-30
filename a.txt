@@ -2,3 +2,4 @@
 topic: new line
 topic: fix bug
 add: bla~
+master: bla~
