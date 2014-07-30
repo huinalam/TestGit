@@ -1,3 +1,4 @@
 1nd file
 topic: new line
 topic: fix bug
+add: bla~
